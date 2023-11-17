@@ -77,12 +77,15 @@ Explanation: In order to edit the code on a remote server, we are going to use v
 
 ---
 Step 8: 
-image
+
+![IMAGE](succeed.png)
+
 Keypressed: <up><up><up><up><up><up><up><enter>
 Explanation: 7 up arrows and enter allowed me to run `bash test.sh`, which passed all four tests.
 
 ---
 Step 9:
+![IMAGE](push.png)
 Keypressed:<up><up><up><up><up><up><enter>
 Keypressed:<up><up><up><<enter>
 Keypressed:<up><enter>
